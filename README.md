@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Shanker</h1>
 <h3 align="center">.</h3>
-<img align="center" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img  align="center"  width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay0503&label=Profile%20views&color=0e75b6&style=flat" alt="ajay0503" /> 
-<a href="https://twitter.com/ajay5_3" target="blank"><img src="https://img.shields.io/twitter/follow/ajay5_3?logo=twitter&style=for-the-badge" alt="ajay5_3" /></a> 
-</p>
+<a href="https://twitter.com/ajay5_3" target="blank"><img src="https://img.shields.io/twitter/follow/ajay5_3?logo=twitter&style=for-the-badge" alt="ajay5_3" /></a> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay0503" alt="ajay0503" /></a> </p>
 
