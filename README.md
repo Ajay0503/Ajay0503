@@ -5,8 +5,6 @@
 <a href="https://twitter.com/ajay5_3" target="blank"><img src="https://img.shields.io/twitter/follow/ajay5_3?logo=twitter&style=for-the-badge" alt="ajay5_3" /></a> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay0503" alt="ajay0503" /></a> </p>
-
 - 📫 How to reach me **ajayshanker533@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
@@ -21,6 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay0503&show_icons=true&locale=en&layout=compact" alt="ajay0503" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay0503&show_icons=true&locale=en" alt="ajay0503" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay0503&" alt="ajay0503" /></p>
